@@ -10,7 +10,7 @@
 5. Pull the code from the this repo : 
 	- https://github.com/The-Coder-Ali-Jalal/calculate-date-pattern
 6. Run : cp .env.example .env
-7. Run : .Instructions on how to run the code 1/vendor/bin/sail up -d
+7. Run : ./vendor/bin/sail up -d
 8. Run: ./vendor/bin/sail artisan key:generate
 9.  Run: ./vendor/bin/sail npm install 
 10. Run: ./vendor/bin/sail npm run build
