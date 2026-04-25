@@ -6,7 +6,7 @@
 2. Run the following command to create a new Laravel application:
 	- curl -s https://laravel.build/calculate-date-pattern | bash.
 3. Wait until all the dependencies are installed and Laravel Sail is set up .
-4. cd to maza-soft-test dir.
+4. cd to calculate-date-pattern dir.
 5. Pull the code from the this repo : 
 	- https://github.com/The-Coder-Ali-Jalal/calculate-date-pattern
 6. Run : cp .env.example .env
